@@ -1,1 +1,1 @@
-# cl-mastermind
+The creation of a command line Mastermind game following The Odin Project.
